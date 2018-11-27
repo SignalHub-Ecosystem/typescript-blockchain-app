@@ -1,0 +1,15 @@
+{
+  "genesis_time": "2018-11-27T10:15:25.302122404-05:00",
+  "chain_id": "test-chain-AypCN1",
+  "validators": [
+    {
+      "pub_key": {
+        "type": "AC26791624DE60",
+        "value": "vMK7gIq6Wu3lcfPPNd0bbSlgPlMk815s3H+rQE2zK/A="
+      },
+      "power": 10,
+      "name": ""
+    }
+  ],
+  "app_hash": ""
+}

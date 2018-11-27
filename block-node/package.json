@@ -4,10 +4,10 @@
   "description": "",
   "main": "src/block-node.ts",
   "scripts": {
-    "start": "ts-node src/app.ts",
+    "start": "ts-node src/block-node.ts",
     "lint": "tslint src/*.ts",
-    "tm:init": "./init.sh",
-    "tm:reset": "./delete.sh && npm run tm:init"
+    "init": "./init.sh",
+    "reset": "./delete.sh && npm run tm:init"
   },
   "keywords": [],
   "author": "",
