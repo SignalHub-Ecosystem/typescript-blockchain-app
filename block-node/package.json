@@ -6,8 +6,8 @@
   "scripts": {
     "start": "ts-node src/block-node.ts",
     "lint": "tslint src/*.ts",
-    "init": "./init.sh",
-    "reset": "./delete.sh && npm run tm:init"
+    "init": "sh ./init.sh",
+    "reset": "sh ./delete.sh && npm run init"
   },
   "keywords": [],
   "author": "",

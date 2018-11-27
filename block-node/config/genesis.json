@@ -1,11 +1,27 @@
 {
-  "genesis_time": "2018-11-27T10:15:25.302122404-05:00",
-  "chain_id": "test-chain-AypCN1",
+  "genesis_time": "2018-11-27T11:31:52.277265908-05:00",
+  "chain_id": "test-chain-ebXaht",
   "validators": [
     {
       "pub_key": {
         "type": "AC26791624DE60",
-        "value": "vMK7gIq6Wu3lcfPPNd0bbSlgPlMk815s3H+rQE2zK/A="
+        "value": "eEef8MydpJL+uI+yCq/WClmvmh25BhiQ7noHD6+CUMI="
+      },
+      "power": 10,
+      "name": ""
+    },
+    {
+      "pub_key": {
+        "type": "AC26791624DE60",
+        "value": "jNdbwTj2xoAc9SNRE9zl2gRFORCOaS7r1NX6IjhoLUc="
+      },
+      "power": 10,
+      "name": ""
+    },
+    {
+      "pub_key": {
+        "type": "AC26791624DE60",
+        "value": "7Q7B8Cc+428S8FgCaVsu/DAnE+KL4WkGuoEwh2y/XeI="
       },
       "power": 10,
       "name": ""
